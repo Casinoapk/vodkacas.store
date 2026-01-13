@@ -6,4 +6,11 @@
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+       <url>
+        <loc>https://vodka.bet/?id=15031&modal=reg</loc>
+        <lastmod>2025-03-20T17:30:08+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>   
 </urlset>
+
